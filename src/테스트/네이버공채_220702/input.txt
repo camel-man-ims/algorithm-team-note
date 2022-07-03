@@ -1,0 +1,18 @@
+16
+4 3
+apple A
+apple B
+apple A
+apple C
+apple A
+grape A
+grape A
+grape A
+grape B
+grape B
+grape C
+mango B
+mango B
+mango C
+orange B
+orange B
