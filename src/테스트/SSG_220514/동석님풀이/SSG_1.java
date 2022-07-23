@@ -27,7 +27,7 @@ public class SSG_1 {
 			mid = (high+low)/2;
 			long cnt = 0;
 			for(int i=0; i<len; ++i) {
-				cnt += (v[i]-mid*b)/gap;
+				cnt += (v[i]- (long) mid *b)/gap;
 			}
 			if(cnt>=mid) { // 달릴 수 있으면
 				low = mid+1;

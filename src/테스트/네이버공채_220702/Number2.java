@@ -1,4 +1,4 @@
-package src.코딩테스트.네이버공채_220702;
+package 테스트.네이버공채_220702;
 
 import java.io.*;
 import java.util.*;
